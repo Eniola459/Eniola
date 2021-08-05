@@ -1,0 +1,36 @@
+/* float syles for the nav bar */
+
+nav{
+  background-color: royalblue;
+    overflow: auto;
+}
+#logo {
+
+    font-size: 2.5em;
+    float:left;
+    margin-left: 5%;
+    
+}
+ul, li{
+    padding: 0px;
+    list-style: none;
+    font-size: 1em;
+
+}
+ul{
+    float:right;
+    margin-right: 20%;
+}
+li{
+    float:left;
+
+}
+nav  a{
+    text-decoration: none;
+    padding: 5px;
+    color: orchid;
+}
+
+nav a:hover{
+    color: white;
+}
