@@ -1,0 +1,65 @@
+a {
+    text-decoration: none;
+    margin: Spx;
+}
+
+
+h1{
+    text-align: left;
+    color: orangered;
+    text-decoration: black;
+    
+}
+p{
+    color: chocolate;
+}
+.ife{
+    color: white;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family:'Roboto';
+    font-size: 1.5em;
+}
+body{
+    height:100%;
+
+}
+li a{
+    list-style-type: disc;
+    height: 60px;
+    padding:5px;
+    margin-top:20px;
+   
+    
+}
+li{
+    font-size: 1.25em;
+    text-decoration: none;
+    display: inline-block;
+    padding: 5px;
+    background-color: orangered;
+    margin-right: 30px;
+}
+p{
+    text-align: center;
+    color: orangered
+}
+h2{
+    color:orangered;
+    text-decoration-color: chocolate;
+    text-align: center;
+}
+h3{
+    color: orangered;
+    text-align: center;
+}
+
+
